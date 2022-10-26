@@ -35,6 +35,7 @@
 18. git reset --hard HEAD^^返回至上上(^个数)一次的状态
 19. git reset --hard 123456(某次操作记录编号前7位) 返回某次操作状态
 20. git reflog 查询所有操作记录
+21. lklj
 
 #### 第4课时
 
