@@ -38,10 +38,11 @@
 21. git tag v1.1 4aa80ef -m "版本1.1" 给某个(默认最新)版本添加标签
 22. git tag 查看所有标签
 23. git show v1.1 查看版本详细信息
-24. todo24
+24. git stash save 'test'
 25. todo35
 26. todo26
 27. 4aa80ef
+28. 
 
 #### 第4课时
 
