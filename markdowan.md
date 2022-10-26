@@ -35,13 +35,13 @@
 18. git reset --hard HEAD^^返回至上上(^个数)一次的状态
 19. git reset --hard 123456(某次操作记录编号前7位) 返回某次操作状态
 20. git reflog 查询所有操作记录
-21. lklj
-22. todo
-23. todokk
+21. git tag v1.1 4aa80ef -m "版本1.1" 给某个(默认最新)版本添加标签
+22. git tag 查看所有标签
+23. git show v1.1 查看版本详细信息
 24. todo24
 25. todo35
 26. todo26
-27. 
+27. 4aa80ef
 
 #### 第4课时
 
