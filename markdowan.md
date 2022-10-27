@@ -43,7 +43,7 @@
 25. git stash apply stash@{No.} 应用某个stash
 26. git stash drop stash@{No.} 删除某个stash
 27. git stash clear 清空所有stash 
-28. fenhzi
+28. 这是lyn01天假的内容
 
 #### 第4课时
 
