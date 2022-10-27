@@ -1,7 +1,7 @@
 # -*- encoing: utf-8 -*-
 """
-PyCharm hehhe.py
-2022-10-26
+PyCharm lyn01spy
+2022-10-27
 BY Lyn
 """
 from typing import *
