@@ -42,10 +42,13 @@
 25. git stash list 查看所有stash（stash是以栈堆的形式存储）
 25. git stash apply stash@{No.} 应用某个stash
 26. git stash drop stash@{No.} 删除某个stash
-<<<<<<< HEAD
 27. git stash clear 清空所有stash
-28. fenhzi 
-29. zhes是lyntianjia的内容
+28. git branch 查看分支
+29. git branch branchname 创建分支
+30. git branch -b branchname 创建并切换到分支 
+31. git checkout branchname 切换到分支 
+32. git merge branchname 合并分支到当前分支
+33. git branch -d branchname
 
 
 #### 第4课时
