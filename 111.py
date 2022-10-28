@@ -8,7 +8,7 @@ from typing import *
 
 
 def main():
-    searc
+    print('this is the main process')
     return None
 
 
