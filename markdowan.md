@@ -48,8 +48,11 @@
 30. git branch -b branchname 创建并切换到分支 
 31. git checkout branchname 切换到分支 
 32. git merge branchname 合并分支到当前分支
-33. git branch -d branchname
-
+33. git branch -d branchname 删除分支(已合并-d 为合并强行删除用-D)
+34. git clone https(克隆git项目)
+35. git remote 
+36. git push -u remotelibname branchname
+37. 
 
 #### 第4课时
 
